@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/sheena-edelstein/prompts-for-article-generate-by-ia/blob/main/.github/assets/Design%20sem%20nome%20(7).png"
     width="400"  
   />
 </p>
