@@ -49,7 +49,17 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML - Tags Semânticas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva um artigo atendendo às regras abaixo:
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- O que são Tags Semânticas no HTML
+- Qual o intuito das tags semânticas
+- Função de cada tag semântica
+- Cite exemplos com códigos de tags semânticas
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido |
 
 
 Lexica.art：
