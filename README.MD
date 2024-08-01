@@ -39,7 +39,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Snappify](https://snappify.com/) - para gerar a imagem da capa
 - [Copilot](https://copilot.com/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Lexica](https://lexica.art/) - para gerar imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - para formatação de banners e layouts
 
 ## 📄 Prompts e ferramentas
 
@@ -48,21 +49,21 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML - Tags Semânticas                                                                                                                                                                                                    |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML - Tags Semânticas       |
 | conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva um artigo atendendo às regras abaixo: > No máximo 5 linhas por blocos de explicação > Explique de maneira informal, como se eu fosse uma criança de 10 anos > Os blocos que serão criados estão abaixo: - O que são Tags Semânticas no HTML - Qual o intuito das tags semânticas - Função de cada tag semântica - Cite exemplos com códigos de tags semânticas - Faça um call to action para as minhas redes sociais - Coloque 3 hashtags que façam sentido |
+|  detalhes  | Refaça o artigo, mas dê exemplos mais detalhados das principais tags semânticas    |
 
 
-Lexica.art：
+## Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No lexica.art utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
 • Web Development
-
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens do acervo público geradas via Lexica
 - Imagens do código geradas no Snappify
 
 ## 📚 Materiais
