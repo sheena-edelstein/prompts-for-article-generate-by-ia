@@ -61,7 +61,8 @@ ChatGPT：
 
 ## 📚 Materiais
 
-- prompts utilizados
+- prompts utilizados no README
+- imagens utilizadas em assets
 
 ## 🛠️ Instruções de execução
 
